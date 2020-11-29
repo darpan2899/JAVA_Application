@@ -1,1 +1,2 @@
-# JAVA_Application
+# JAVA_Applications
+You can check out few Java applications here!
